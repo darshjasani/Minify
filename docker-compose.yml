@@ -1,0 +1,2 @@
+# Defines multi-container Docker setup for development.
+# Coordinates backend, frontend, database, and cache services.

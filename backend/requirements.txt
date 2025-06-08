@@ -1,0 +1,2 @@
+# Lists all Python dependencies required to run the backend application.
+# Used by pip to install necessary packages.
