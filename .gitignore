@@ -1,0 +1,40 @@
+# Python
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.DS_Store
+
+# Node.js
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+frontend/.DS_Store
+
+# VS Code/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# Environment/config
+.env
+*.local
+
+# Coverage/testing
+coverage/
+*.coverage
+htmlcov/
